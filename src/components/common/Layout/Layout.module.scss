@@ -1,0 +1,28 @@
+.container {
+  min-width: 100vw;
+  min-height: 100vh;
+  // max-width: 1170px;
+  padding: 1rem;
+  margin: 0 auto;
+
+}
+
+.light {
+  color: #111111;
+  background-color: #fff;
+}
+
+.dark {
+  color: #fff;
+  background-color: #111111;
+}
+
+.marginLeft {
+  margin-left: 240px;
+  background-color: aqua;
+}
+
+.margiNull {
+  margin-left: 0px;
+  background-color: rgb(218, 21, 198);
+}

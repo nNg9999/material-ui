@@ -1,0 +1,27 @@
+.light {
+  background: #515151;
+}
+
+.btn_light {
+  background: yellow;
+}
+
+.btn_dark {
+  background: red;
+}
+
+.button {
+  padding: 5px 10px;
+  background-color: #b8bcc1;
+  cursor: pointer;
+  border-radius: 2px;
+  box-sizing: border-box;
+  border: none;
+  outline: 0;
+
+}
+
+.button:hover,
+.button:focus {
+  background-color: #007AFF;
+}

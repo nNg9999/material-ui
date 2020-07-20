@@ -1,0 +1,29 @@
+.link {
+  display: inline-block;
+  text-decoration: none;
+  padding: 12px;
+  font-weight: 700;
+  color: #2A363B;
+
+  &:hover,
+  &:focus {
+    color: #E84A5F;
+  }
+
+
+  &light {
+    // background-color: #fff;
+    // color: #2A363B;
+    color: rgb(255, 255, 255);
+  }
+
+  &dark {
+    // background-color: #333333;
+    color: rgb(255, 255, 255);
+  }
+
+}
+
+.activeLink {
+  color: #E84A5F;
+}

@@ -1,0 +1,9 @@
+/*
+* Стили компонента Spinner
+*/
+
+.Spinner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
